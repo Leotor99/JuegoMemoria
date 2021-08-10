@@ -4,7 +4,6 @@ const reiniciar = document.getElementById('reiniciar')
 
 var items;
 var tablero;
-
 var currentClick;
 var cant_click;
 let elementos_click;
